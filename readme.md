@@ -1,4 +1,6 @@
-Steps to reproduce and error output.
+TypeScript compiler fails type checks with Cypress in a yarn workspace.
+
+Steps to reproduce and error output:
 
 ```bash
 $ yarn install
