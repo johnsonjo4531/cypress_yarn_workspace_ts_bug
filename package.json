@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "cypress_bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}

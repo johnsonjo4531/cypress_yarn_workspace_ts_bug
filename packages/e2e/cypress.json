@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://localhost:3000",
+  "integrationFolder": "dist/cypress/e2e",
+  "fixturesFolder": "dist/cypress/fixtures",
+  "supportFile": "dist/cypress/support",
+  "videosFolder": "dist/cypress/videos",
+  "screenshotsFolder": "dist/cypress/screenshots",
+  "pluginsFile": "dist/cypress/plugins"
+}
