@@ -1,4 +1,7 @@
+Steps to reproduce and error output.
+
 ```bash
+$ yarn install
 $ cd packages/e2e
 $ yarn tsc
 yarn run v1.13.0
